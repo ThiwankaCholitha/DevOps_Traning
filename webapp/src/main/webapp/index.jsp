@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Moved the builds to the docker server!</h1>
-    <h2>Container is up and running!</h2>
+    <h1>Docker image is up and running!</h1>
+    <h2>Container is up with the latest!</h2>
     <hr>
   </div>
 </form>
